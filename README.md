@@ -10,6 +10,6 @@ Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me 
 - *PHP*
 
 ***Y en lenguajes orientados al desarrollo web:***
-- * *HTML5* *
-- * *CSS3* *
-- * *JAVASCRIPT* *
+- *HTML5*
+- *CSS3*
+- *JAVASCRIPT*
