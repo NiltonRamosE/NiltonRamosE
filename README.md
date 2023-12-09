@@ -3,10 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer+Student+&hearts;++;Learning+Web+Developer;Learning+Software+Development+<3"></a>
 </p>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <br>
-
 Soy un estudiante apasionado de Ingeniería de Sistemas e Informática con habilidades destacadas en diversos lenguajes de programación.
 Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me impulsan a explorar y aplicar las últimas tendencias en el mundo de la tecnología. Con un enfoque proactivo y una mentalidad orientada a soluciones, aspiro a contribuir significativamente al mundo de la ingeniería de sistemas.
 
