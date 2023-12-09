@@ -6,8 +6,8 @@ Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me 
 ¡Bienvenido a mi perfil de GitHub, donde encontrarás proyectos emocionantes y un viaje continuo de aprendizaje! 🚀
 
 ***Tengo conocimientos en lenguajes de programación como:***
-- * *JAVA* *
-- * *PHP* *
+- *JAVA*
+- *PHP*
 
 ***Y en lenguajes orientados al desarrollo web:***
 - * *HTML5* *
