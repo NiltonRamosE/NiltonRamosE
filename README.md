@@ -1,16 +1,14 @@
 ### Hola, mi nombre es Nilton Ramos Encarnación 👋
 
-<!--
-**NiltonRamosE/NiltonRamosE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy estudiante de Ingeniería de Sistemas e Informática** con habilidades destacadas en diversos lenguajes de programación. 
+Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me impulsan a explorar y aplicar las últimas tendencias en el mundo de la tecnología. Con un enfoque proactivo y una mentalidad orientada a soluciones, aspiro a contribuir significativamente al mundo de la ingeniería de sistemas.
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub, donde encontrarás proyectos emocionantes y un viaje continuo de aprendizaje! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Tengo conocimientos en lenguajes de programación como:***
+- * *JAVA* *
+- * *PHP* *
+***Y en lenguajes orientados al desarrollo web:***
+- * *HTML5* *
+- * *CSS3* *
+- * *JAVASCRIPT* *
