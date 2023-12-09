@@ -38,7 +38,11 @@ Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![NetBeans](https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 </p>
-- **Languages**:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+<p align="center">
+
+  - **Languages**:
       
       <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 5px;">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 5px;">
@@ -56,3 +60,4 @@ Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius: 5px;">
     <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" style="border-radius: 5px;">
+</p>
