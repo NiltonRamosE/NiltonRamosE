@@ -8,6 +8,7 @@ Mi búsqueda constante de conocimiento y deseo de enfrentar nuevos desafíos me 
 ***Tengo conocimientos en lenguajes de programación como:***
 - * *JAVA* *
 - * *PHP* *
+
 ***Y en lenguajes orientados al desarrollo web:***
 - * *HTML5* *
 - * *CSS3* *
